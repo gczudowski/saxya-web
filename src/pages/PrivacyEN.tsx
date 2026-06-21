@@ -1,13 +1,6 @@
-import { Link } from 'react-router-dom';
-
 export default function PrivacyEN() {
   return (
     <main className="legal">
-      <div className="lang">
-        <Link to="/privacy-policy-pl">PL</Link>
-        <Link to="/privacy-policy-en">EN</Link>
-      </div>
-
       <h1>Privacy Policy</h1>
       <p className="meta">Last updated: 21 June 2026</p>
 
@@ -21,17 +14,20 @@ export default function PrivacyEN() {
       <h2>1. Data controller</h2>
       <p>
         The controller of your personal data is:{' '}
-        <strong>[Operator: Saxya — fill in legal entity: full name, registered seat, address, tax ID, company register no.]</strong>.
-        Privacy contact: <a href="mailto:privacy@saxya.com">privacy@saxya.com</a>.
+        <strong>
+          GREGMAR Grzegorz Czudowski, ul. Sienkiewicza 22B, 64-000 Kościan, Poland. Tax ID (NIP):
+          4970074627
+        </strong>
+        . Privacy contact:{' '}
+        <a href="mailto:contact@gregmarapps.com">contact@gregmarapps.com</a>.
       </p>
 
       <h2>2. What the Service is about</h2>
       <p>
         Saxya is a mobile application that lets you have text, voice and image-based conversations
-        with AI-generated characters. You can create your own characters and scenarios, take part in
-        group chats, generate images, talk to characters via text-to-speech voice calls, and purchase
-        a <strong>Premium</strong> subscription and the in-app currency <strong>“Diamonds”</strong>{' '}
-        (one-time in-app purchases).
+        with AI-generated characters. The app also lets you purchase a <strong>Premium</strong>{' '}
+        subscription and the in-app currency <strong>“Diamonds”</strong> (one-time in-app
+        purchases).
       </p>
 
       <h2>3. Data we process</h2>
@@ -183,7 +179,7 @@ export default function PrivacyEN() {
       </ul>
       <p>
         To exercise your rights, write to{' '}
-        <a href="mailto:privacy@saxya.com">privacy@saxya.com</a>. Please include your Device ID,
+        <a href="mailto:contact@saxya.com">contact@saxya.com</a>. Please include your Device ID,
         which you can find in the app under “Settings”.
       </p>
 
@@ -215,10 +211,7 @@ export default function PrivacyEN() {
 
       <h2>15. Contact</h2>
       <p>
-        Email: <a href="mailto:privacy@saxya.com">privacy@saxya.com</a>
-        <br />
-        Operator:{' '}
-        <strong>[Operator: Saxya — fill in legal entity: full name, registered seat, address, tax ID, company register no.]</strong>
+        Email: <a href="mailto:contact@saxya.com">contact@saxya.com</a>
       </p>
     </main>
   );

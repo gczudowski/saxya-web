@@ -3,11 +3,6 @@ import { Link } from 'react-router-dom';
 export default function TermsEN() {
   return (
     <main className="legal">
-      <div className="lang">
-        <Link to="/terms-and-conditions-pl">PL</Link>
-        <Link to="/terms-and-conditions-en">EN</Link>
-      </div>
-
       <h1>Terms of Service</h1>
       <p className="meta">Last updated: 21 June 2026</p>
 
@@ -19,7 +14,10 @@ export default function TermsEN() {
       </p>
       <p>
         The operator of the Service is:{' '}
-        <strong>[Operator: Saxya — fill in legal entity: full name, registered seat, address, tax ID, company register no.]</strong>{' '}
+        <strong>
+          GREGMAR Grzegorz Czudowski, ul. Sienkiewicza 22B, 64-000 Kościan, Poland. Tax ID (NIP):
+          4970074627
+        </strong>{' '}
         (<strong>“Saxya”</strong>, <strong>“we”</strong>).
       </p>
       <p>
@@ -53,7 +51,7 @@ export default function TermsEN() {
         settings are tied to that identifier. Losing your device, reinstalling the app or wiping
         local storage may make it impossible to recover your chat history and Diamond balance —
         before doing so, please contact{' '}
-        <a href="mailto:support@saxya.com">support@saxya.com</a>.
+        <a href="mailto:contact@saxya.com">contact@saxya.com</a>.
       </p>
 
       <h2>5. Premium subscription</h2>
@@ -189,7 +187,7 @@ export default function TermsEN() {
       <h2>12. Complaints</h2>
       <p>
         Complaints regarding the Service can be submitted to{' '}
-        <a href="mailto:support@saxya.com">support@saxya.com</a>. We will respond within 14 days of
+        <a href="mailto:contact@saxya.com">contact@saxya.com</a>. We will respond within 14 days of
         receipt. Please include your Device ID and a description of the issue.
       </p>
       <p>
@@ -223,12 +221,10 @@ export default function TermsEN() {
 
       <h2>16. Contact</h2>
       <p>
-        Support: <a href="mailto:support@saxya.com">support@saxya.com</a>
+        Support: <a href="mailto:contact@saxya.com">contact@saxya.com</a>
         <br />
-        Privacy: <a href="mailto:privacy@saxya.com">privacy@saxya.com</a>
-        <br />
-        Operator:{' '}
-        <strong>[Operator: Saxya — fill in legal entity: full name, registered seat, address, tax ID, company register no.]</strong>
+        Privacy:{' '}
+        <a href="mailto:contact@gregmarapps.com">contact@gregmarapps.com</a>
       </p>
     </main>
   );
