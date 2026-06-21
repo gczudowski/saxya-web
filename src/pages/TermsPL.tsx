@@ -126,6 +126,13 @@ export default function TermsPL() {
           Saxya zastrzega sobie prawo do zmiany cennika paczek, kosztu funkcji w
           Diamentach oraz parametrów dostępnych funkcji.
         </li>
+        <li>
+          Diamenty są ważne przez cały okres aktywnego korzystania z konta.
+          Jeżeli przez kolejne <strong>3 miesiące</strong> nie zalogujesz się do
+          aplikacji ani nie wykonasz w niej żadnej operacji, możemy usunąć konto
+          wraz z saldem Diamentów. Jeżeli udostępniłeś nam adres e-mail,
+          uprzedzimy Cię o tym z minimum 30-dniowym wyprzedzeniem.
+        </li>
       </ul>
 
       <h2>7. Prawo odstąpienia / zgoda na natychmiastowe wykonanie</h2>
@@ -199,7 +206,40 @@ export default function TermsPL() {
         Diamenty i okres subskrypcji <strong>nie podlegają zwrotowi</strong>.
       </p>
 
-      <h2>11. Wyłączenie odpowiedzialności za treści AI</h2>
+      <h2>11. Zakończenie świadczenia Usługi</h2>
+      <p>
+        Saxya zastrzega sobie prawo do trwałego zakończenia świadczenia Usługi z
+        ważnych przyczyn (w szczególności ekonomicznych, prawnych lub
+        technicznych). O zakończeniu poinformujemy w aplikacji oraz, jeżeli to
+        możliwe, drogą e-mail — z minimum{" "}
+        <strong>90-dniowym wyprzedzeniem</strong>. W okresie wypowiedzenia:
+      </p>
+      <ul>
+        <li>sprzedaż nowych Diamentów i subskrypcji zostanie wstrzymana,</li>
+        <li>
+          aktywne subskrypcje będą działać do końca opłaconego okresu i nie
+          zostaną automatycznie odnowione,
+        </li>
+        <li>
+          możesz w pełni korzystać z posiadanego salda Diamentów aż do dnia
+          zakończenia Usługi.
+        </li>
+      </ul>
+      <p>
+        Po zakończeniu Usługi, w zakresie wymaganym bezwzględnie obowiązującymi
+        przepisami prawa konsumenckiego, zwrócimy proporcjonalną część opłaty za
+        Diamenty zakupione w ciągu 90 dni przed ogłoszeniem zakończenia Usługi,
+        które nie zostały do tego czasu wykorzystane. Zwrot realizowany jest za
+        pośrednictwem Apple App Store lub Google Play.
+      </p>
+      <p>
+        Po zakończeniu Usługi przetwarzanie danych osobowych zostanie
+        ograniczone i zakończone zgodnie z{" "}
+        <Link to="/privacy-policy-pl">Polityką prywatności</Link>; w okresie
+        wypowiedzenia umożliwimy eksport Twoich danych na żądanie.
+      </p>
+
+      <h2>12. Wyłączenie odpowiedzialności za treści AI</h2>
       <p>
         Treści generowane przez modele AI są fikcyjne, mogą być nieprawdziwe,
         niespójne, obraźliwe lub niezgodne z Twoimi oczekiwaniami. Saxya nie
@@ -210,7 +250,7 @@ export default function TermsPL() {
         skutkach.
       </p>
 
-      <h2>12. Reklamacje</h2>
+      <h2>13. Reklamacje</h2>
       <p>
         Reklamacje dotyczące funkcjonowania Usługi można składać na adres{" "}
         <a href="mailto:contact@saxya.com">contact@saxya.com</a>. Reklamację
@@ -222,7 +262,7 @@ export default function TermsPL() {
         prosimy kierować bezpośrednio do Apple lub Google.
       </p>
 
-      <h2>13. Pozasądowe rozwiązywanie sporów</h2>
+      <h2>14. Pozasądowe rozwiązywanie sporów</h2>
       <p>
         Konsument ma prawo skorzystać z pozasądowych sposobów rozpatrywania
         reklamacji i dochodzenia roszczeń, w tym z platformy ODR Komisji
@@ -237,7 +277,7 @@ export default function TermsPL() {
         .
       </p>
 
-      <h2>14. Prawo właściwe i jurysdykcja</h2>
+      <h2>15. Prawo właściwe i jurysdykcja</h2>
       <p>
         Regulamin podlega prawu polskiemu. Dla konsumentów nie wyłącza to
         ochrony przyznanej przepisami państwa zamieszkania konsumenta, których
@@ -245,7 +285,7 @@ export default function TermsPL() {
         rozstrzyga sąd właściwy zgodnie z przepisami.
       </p>
 
-      <h2>15. Zmiany Regulaminu</h2>
+      <h2>16. Zmiany Regulaminu</h2>
       <p>
         Możemy aktualizować Regulamin z ważnych powodów (zmiany prawne, nowe
         funkcje, względy bezpieczeństwa). O zmianach poinformujemy w aplikacji
@@ -253,7 +293,7 @@ export default function TermsPL() {
         Usługi po wejściu zmian w życie oznacza ich akceptację.
       </p>
 
-      <h2>16. Kontakt</h2>
+      <h2>17. Kontakt</h2>
       <p>
         Wsparcie: <a href="mailto:contact@saxya.com">contact@saxya.com</a>
         <br />
